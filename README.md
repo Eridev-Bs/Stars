@@ -15,11 +15,6 @@ Este proyecto está diseñado para permitir a los usuarios calificar a sus prove
 
 ---
 
-## 🖼️ Vista Previa del Diseño
-📸 *Aquí puedes incluir imágenes o GIFs mostrando el diseño del proyecto (Frontend en acción)*.
-
----
-
 ## 🛠️ Tecnologías Utilizadas
 | **Tecnología** | **Descripción** |
 |----------------|-----------------|
